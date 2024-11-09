@@ -36,3 +36,7 @@ const {
 
 in that case when we use z and we have input as nubmer but with "register" this turn to string we can use 
 '{...register('age', {valueAsNumber: true})}'
+
+We can reset our value use reset() at useForm()
+
+
