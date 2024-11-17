@@ -3,6 +3,7 @@ npm create vite@5.3.10;
 npm i react-icons@5.3.0;
 npm i zod@3.20.6 -> we need zod to hold old errors at one place
 npm i @hookform/resolvers@2.9.11
+npm install @chakra-ui/react@3.0.0 
 
 
 Step 2 
