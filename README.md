@@ -89,4 +89,4 @@ export interface ToDoList {
 export default create('/todos')
 We can reset our value use reset() at useForm()
 
-
+When we want to change size of pictures manualy we can use media/crop/size/size
