@@ -1,9 +1,21 @@
+Dependencies JSON:
+"dependencies": {
+    "@chakra-ui/react": "^2.5.1",
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "framer-motion": "^10.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.4.0"
+  }
+
 Terminal : 
-npm create vite@5.3.10;
+npm create vite@4.1.0;
 npm i react-icons@5.3.0;
 npm i zod@3.20.6 -> we need zod to hold old errors at one place
 npm i @hookform/resolvers@2.9.11
 npm install @chakra-ui/react@3.0.0 
+
 
 info: useForm, zod, httpSercise
     const ref = useRef<HTMLInputElement>(null) => That how ref created
